@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "codigo"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.cwd" : "${workspaceFolder}/tests" , 
+    "python.testing.autoTestDiscoverOnSaveEnabled" : true,
+    "python.envFile": "C:\\Users\\icjardin\\OneDrive - HEZKUNTZA\\PRIA\\workspacePRIA\\UD01_Introduccion_al_python\\env"
+
+}
